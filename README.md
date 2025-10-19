@@ -11,7 +11,7 @@ A GNSS-based speed measurement and performance testing system built on the ESP32
 ## The hardware I used
 
 **Microcontroller**: [ESP32-S3 Super Mini](https://www.espboards.dev/esp32/esp32-s3-super-mini/)
-- Ultra-compact board with 8MB Flash, 2MB PSRAM
+- Ultra-compact board with 4MB Flash, 2MB PSRAM
 - Castellated pins for easy integration
 - Couple dollars
 
